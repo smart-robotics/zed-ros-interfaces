@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.5)
 
-project(zed_interfaces)
+project(sr_zed_interfaces)
 
 #Fix for QtCretor
 #list(APPEND CMAKE_PREFIX_PATH "/opt/ros/$ENV{ROS_DISTRO}/")

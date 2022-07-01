@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>zed_interfaces</name>
-  <version>3.5.0</version>
+  <name>sr_zed_interfaces</name>
+  <version>1.2.1</version>
   <description>zed_interfaces is a packages that defines custom messages, services and actions used by the
                zed-ros-wrapper package and other packages.</description>
 
@@ -9,7 +9,7 @@
   <license>MIT</license>
 
   <url type="website">http://stereolabs.com/</url>
-  <url type="repository">https://github.com/stereolabs/zed-ros-wrapper</url>
+  <url type="repository">https://github.com/smart-robotics/zed-ros-wrapper</url>
   <url type="bugtracker">https://github.com/stereolabs/zed-ros-wrapper/issues</url>
 
   <buildtool_depend>catkin</buildtool_depend>  
